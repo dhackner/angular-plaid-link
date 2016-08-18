@@ -18,6 +18,17 @@
 
 ---
 
+### Importing
+
+```
+<body>
+...
+<script src="bower_components/angular-plaid-link/src/angular-plaid-link.js"></script>
+</body>
+```
+
+---
+
 
 ### Getting Started
 
